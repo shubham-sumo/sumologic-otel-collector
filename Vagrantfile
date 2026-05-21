@@ -38,3 +38,4 @@ Vagrant.configure('2') do |config|
   config.vm.synced_folder "examples/puppet/manifests/", "/etc/puppetlabs/code/environments/production/manifests/"
 end
 # test
+
